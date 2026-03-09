@@ -2233,6 +2233,13 @@
     "repo": "SuperChamp234/habitica-sync"
   },
   {
+    "id": "habit-tracker",
+    "name": "Habit Tracker",
+    "author": "THRBY",
+    "description": "Track your daily habits with a beautiful calendar interface and advanced analytics dashboard. Features heatmaps, streak tracking, and detailed statistics.",
+    "repo": "THRBY/obsidian-habit-tracker"
+  },
+  {
     "id": "obsidian-oura-plugin",
     "name": "Oura Ring",
     "description": "Import Oura Ring data into a note.",
